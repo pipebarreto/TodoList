@@ -17,7 +17,6 @@ import DeleteIcon from '@mui/icons-material/Delete';
 import AddIcon from '@mui/icons-material/Add';
 
 
-
 function App() {
 
   const [todo, setTodo] = useState({description: '', date: '', priority:''});
